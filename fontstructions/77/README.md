@@ -14,8 +14,6 @@ It’s easy and it’s fun.
 
 FontStruct is copyright ©2008-2018 Rob Meek
 
-FontStruct is sponsored by Google Fonts https://fonts.google.com/
-
 LEGAL NOTICE:
 In using this font you must comply with the licensing terms described in the file “OFL.txt” included in this folder.
 If you redistribute the font file, it must be accompanied by all the other files from this folder, including this one.

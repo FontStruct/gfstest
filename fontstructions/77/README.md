@@ -1,19 +1,22 @@
-﻿#Font: “Plain”
+﻿# Font: “Plain”
 
-The font file in this folder (“Plain”) was created using FontStruct the free, online font-building tool.
+The font file in this folder (“Plain”) was created using [Fontstruct](https://fontstruct.com), the free, online font-building tool.
 
-This font was created by Rob Meek (http://fs/app_dev.php/fontstructors/1/meek).
+This font was created by [Rob Meek](http://fs/app_dev.php/fontstructors/1/meek) in 2008
 
-This font has a homepage where this archive and other versions may be found: 
+It has a homepage where this archive and other versions may be found: 
 
 http://fs/app_dev.php/fontstructions/show/77
 
 
-Try FontStruct at https://fontstruct.com  
-It’s easy and it’s fun.
+Try [FontStruct](https://fontstruct.com) – it’s easy and it’s fun!
 
-FontStruct is copyright ©2008-2018 Rob Meek
+FontStruct is sponsored by [Google Fonts](https://fonts.google.com)
 
 LEGAL NOTICE:
-In using this font you must comply with the licensing terms described in the file “OFL.txt” included in this folder.
-If you redistribute the font file, it must be accompanied by all the other files from this folder, including this one.
+
+In using this font you must comply with the licensing terms
+described in the file “OFL.txt” included with this folder.
+
+If you redistribute the font file in this folder, you must also
+comply with the license.  Please also include this file.

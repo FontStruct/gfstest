@@ -2,11 +2,11 @@
 
 The font file in this folder (“Plain”) was created using [Fontstruct](https://fontstruct.com), the free, online font-building tool.
 
-This font was created by [Rob Meek](http://fs/app_dev.php/fontstructors/1/meek) in 2008
+This font was created by [Rob Meek](http://localhost/fontstructors/1/meek) in 2008
 
 It has a homepage where this archive and other versions may be found: 
 
-http://fs/app_dev.php/fontstructions/show/77
+http://localhost/fontstructions/show/77
 
 
 Try [FontStruct](https://fontstruct.com) – it’s easy and it’s fun!

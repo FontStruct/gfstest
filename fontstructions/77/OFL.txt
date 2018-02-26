@@ -1,4 +1,4 @@
-﻿Copyright (c) 2008-2018,  Rob Meek (http://localhost/fontstructors/1/meek)
+﻿Copyright (c) 2008-2018,  Rob Meek (http://fs/app_dev.php/fontstructors/1/meek)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
